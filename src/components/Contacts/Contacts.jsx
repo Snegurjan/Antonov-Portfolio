@@ -4,7 +4,7 @@ import Footer from "../Footer/Footer";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faComment, faEnvelope} from "@fortawesome/free-regular-svg-icons";
 import {faPhone} from "@fortawesome/free-solid-svg-icons";
-import {faLinkedin, faVk} from "@fortawesome/free-brands-svg-icons";
+import {faFacebook, faLinkedin, faVk} from "@fortawesome/free-brands-svg-icons";
 import {Animated} from "react-animated-css";
 
 const Contacts = () => {
@@ -21,8 +21,8 @@ const Contacts = () => {
                                 <FontAwesomeIcon icon={faEnvelope}/>
                             </div>
                             <h5 className='contacts-card__title'>E-mail адрес:</h5>
-                            <a href="mailto:ruslan199812@gmail.com" className="contacts-card__link contacts-card__text">
-                                ruslan199812@gmail.com
+                            <a href="mailto:Gosha.8686@gmail.com" className="contacts-card__link contacts-card__text">
+                                Gosha.8686@gmail.com
                             </a>
                         </div>
                         <div className="contacts-card">
@@ -30,8 +30,8 @@ const Contacts = () => {
                                 <FontAwesomeIcon icon={faPhone}/>
                             </div>
                             <h5 className='contacts-card__title'>Телефон:</h5>
-                            <a href="tel:+375256952610" className="contacts-card__link contacts-card__text">
-                                A1: +375 (25) 695-26-10
+                            <a href="tel:+380976111127" className="contacts-card__link contacts-card__text">
+                                A1: +38 (097) 611-11-27
                             </a>
                         </div>
                         <div className="contacts-card">
@@ -41,10 +41,10 @@ const Contacts = () => {
                             <h5 className='contacts-card__title'>Социальные сети:</h5>
                             <div className="contacts-card__links">
                                 <a className='contacts-card__link' target='_blank'
-                                   href="https://vk.com/r.dolgopol"><FontAwesomeIcon
-                                    icon={faVk}/> Вконтакте</a>
+                                   href="https://www.facebook.com/GagarinGara/"><FontAwesomeIcon
+                                    icon={faFacebook}/> Facebook</a>
                                 <a className='contacts-card__link' target='_blank'
-                                   href="https://www.linkedin.com/in/ruslan-dolgopol"><FontAwesomeIcon
+                                   href="https://www.linkedin.com/in/developpapa"><FontAwesomeIcon
                                     icon={faLinkedin}/> Linkedin</a>
                             </div>
                         </div>
