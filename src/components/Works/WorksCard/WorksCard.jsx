@@ -7,7 +7,7 @@ const WorksCard = (props) => {
     debugger;
     return (
         <NavLink to={`/works/${props.path}`} className='works-card'
-             style={{backgroundImage: `url(https://disconnect-ed.github.io/ruslan-dolgopol-portfolio/works/${props.img})`}}>
+             style={{backgroundImage: `url(https://github.com/Snegurjan/Antonov-Portfolio/tree/main/public/works${props.img})`}}>
             <div className="works-card__mask">
                 <div>
                     <h4 className="works-card__mask__title">{props.name}</h4>
