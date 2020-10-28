@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/Antonov-Portfolio/static/css/main.6ab61ea9.chunk.css",
-    "main.js": "/Antonov-Portfolio/static/js/main.c51aedf5.chunk.js",
-    "main.js.map": "/Antonov-Portfolio/static/js/main.c51aedf5.chunk.js.map",
-    "runtime-main.js": "/Antonov-Portfolio/static/js/runtime-main.6674da36.js",
-    "runtime-main.js.map": "/Antonov-Portfolio/static/js/runtime-main.6674da36.js.map",
+    "main.js": "/Antonov-Portfolio/static/js/main.9de6d34f.chunk.js",
+    "main.js.map": "/Antonov-Portfolio/static/js/main.9de6d34f.chunk.js.map",
+    "runtime-main.js": "/Antonov-Portfolio/static/js/runtime-main.11c5e0d7.js",
+    "runtime-main.js.map": "/Antonov-Portfolio/static/js/runtime-main.11c5e0d7.js.map",
     "static/css/2.f524894f.chunk.css": "/Antonov-Portfolio/static/css/2.f524894f.chunk.css",
-    "static/js/2.43f8632b.chunk.js": "/Antonov-Portfolio/static/js/2.43f8632b.chunk.js",
-    "static/js/2.43f8632b.chunk.js.map": "/Antonov-Portfolio/static/js/2.43f8632b.chunk.js.map",
+    "static/js/2.a5aa5009.chunk.js": "/Antonov-Portfolio/static/js/2.a5aa5009.chunk.js",
+    "static/js/2.a5aa5009.chunk.js.map": "/Antonov-Portfolio/static/js/2.a5aa5009.chunk.js.map",
     "index.html": "/Antonov-Portfolio/index.html",
-    "precache-manifest.4be5a4af805c378cd9094a57c930603d.js": "/Antonov-Portfolio/precache-manifest.4be5a4af805c378cd9094a57c930603d.js",
+    "precache-manifest.df3d78225f813550e7de0cbbd1bf026d.js": "/Antonov-Portfolio/precache-manifest.df3d78225f813550e7de0cbbd1bf026d.js",
     "service-worker.js": "/Antonov-Portfolio/service-worker.js",
     "static/css/2.f524894f.chunk.css.map": "/Antonov-Portfolio/static/css/2.f524894f.chunk.css.map",
     "static/css/main.6ab61ea9.chunk.css.map": "/Antonov-Portfolio/static/css/main.6ab61ea9.chunk.css.map",
-    "static/js/2.43f8632b.chunk.js.LICENSE.txt": "/Antonov-Portfolio/static/js/2.43f8632b.chunk.js.LICENSE.txt",
+    "static/js/2.a5aa5009.chunk.js.LICENSE.txt": "/Antonov-Portfolio/static/js/2.a5aa5009.chunk.js.LICENSE.txt",
     "static/media/App.sass": "/Antonov-Portfolio/static/media/bg.44df6696.jpg",
     "static/media/About.sass": "/Antonov-Portfolio/static/media/avatar.964db676.png",
     "static/media/loading.svg": "/Antonov-Portfolio/static/media/loading.ef2d360f.svg",
     "static/media/qr.png": "/Antonov-Portfolio/static/media/qr.8b31d52f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6674da36.js",
+    "static/js/runtime-main.11c5e0d7.js",
     "static/css/2.f524894f.chunk.css",
-    "static/js/2.43f8632b.chunk.js",
+    "static/js/2.a5aa5009.chunk.js",
     "static/css/main.6ab61ea9.chunk.css",
-    "static/js/main.c51aedf5.chunk.js"
+    "static/js/main.9de6d34f.chunk.js"
   ]
 }
