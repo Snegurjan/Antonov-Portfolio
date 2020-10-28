@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://snegurjan.github.io/Antonov-Portfolio",
   "dependencies": {
+    "@babel/runtime": "^7.12.1",
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
     "@fortawesome/free-brands-svg-icons": "^5.13.0",
     "@fortawesome/free-regular-svg-icons": "^5.13.0",
