@@ -38,7 +38,7 @@ const worksData = [
     {
         name: "Fullstack MERN - приложение",
         title: 'Link App',
-        img: "link-app.jpg",
+        img: "link.png",
         path: 5,
         stack: ['MongoDB','Express','React.JS','Node.JS'],
         descr: 'Полноценное приложение с серверной частью',
@@ -47,7 +47,7 @@ const worksData = [
     {
         name: 'Верстка лендинга салона красоты',
         title: 'Верстка',
-        img: "salon.jpg",
+        img: "salon.png",
         path: 6,
         stack: ['HTML', 'CSS'],
         descr: 'Сайт салона',
@@ -56,7 +56,7 @@ const worksData = [
     {
         name: "Верстка лэндинга портфолио",
         title: 'Верстка',
-        img: "portfolio.jpg",
+        img: "portfolio.png",
         path: 7,
         stack: ['Html', 'Less','CSS'],
         descr: 'Адаптивная верстка лэндинга Портфолио по PSD макету.',
