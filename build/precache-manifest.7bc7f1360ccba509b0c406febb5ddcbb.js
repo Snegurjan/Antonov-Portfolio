@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7956a50d26d957d758b6d99bed8dfd97",
+    "revision": "1f688a0e35d65fc25d007e2ec10a75f6",
     "url": "/Antonov-Portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Antonov-Portfolio/static/css/2.f524894f.chunk.css"
   },
   {
-    "revision": "0bee3632bae5b7602bb1",
+    "revision": "4c3376642f5bce1d2206",
     "url": "/Antonov-Portfolio/static/css/main.6ab61ea9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Antonov-Portfolio/static/js/2.a5aa5009.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0bee3632bae5b7602bb1",
-    "url": "/Antonov-Portfolio/static/js/main.9de6d34f.chunk.js"
+    "revision": "4c3376642f5bce1d2206",
+    "url": "/Antonov-Portfolio/static/js/main.1c17b843.chunk.js"
   },
   {
     "revision": "52ef86ba4419c5f59812",

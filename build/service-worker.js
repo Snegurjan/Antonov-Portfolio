@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Antonov-Portfolio/precache-manifest.df3d78225f813550e7de0cbbd1bf026d.js"
+  "/Antonov-Portfolio/precache-manifest.7bc7f1360ccba509b0c406febb5ddcbb.js"
 );
 
 self.addEventListener('message', (event) => {
